@@ -1,6 +1,4 @@
 # -
 扫荡比特币
-<img width="1002" height="884" alt="image" src="https://github.com/user-attachments/assets/da19aabc-20f4-43f7-9ef7-8ee37e2a1566" />
 
-
-<img width="1196" height="859" alt="image" src="https://github.com/user-attachments/assets/f2548510-165e-4694-a6bf-de2ada2ff8d2" />
+<img width="918" height="857" alt="d4a179e336af02d4db8092b57e9267bc" src="https://github.com/user-attachments/assets/00248838-d04c-4bf9-b914-8ee22bbef2c4" />
